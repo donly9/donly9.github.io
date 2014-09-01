@@ -1,0 +1,9 @@
+name: "Don's Github Blog"
+description: "Don's Github Blog"
+
+url: "donly9.com"
+
+paginate: 10
+
+permalink: pretty
+highlighter: true
